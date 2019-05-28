@@ -1,0 +1,17 @@
+1 Lyovkin Agap Izmailovich Cleaner 8 10 
+2 Slobozhanina Aza Eliseevna Cleaner 8 10
+3 Savenkov German Kondratievich Driver 8 20
+4 Ovechkin Naum Timurovich Driver 6 20
+5 Zubkov Potap Adrianovich ProjectManager PJCTName 40000 0.1 2
+6 Kondurova Stela Vladlenovna ProjectManager PJCTNameTwo 250000 0.2 2
+7 Mosin Mstislav Gerasimovich TeamLeader 8 50 PJCTNameTwo 250000 0.3 8
+8 Tarasov Trofim Mikheevich Tester 8 25 PJCTName 50000 0.1
+9 Boyarsky Nikita Timurovich Tester 8 25 PJCTName 50000 0.1
+10 Yakunova Oksana Markovna Tester 8 25 PJCTNameTwo 50000 0.1
+11 Avilov Kir Kondratievich Manager PJCTNameTwo 50000 0.1
+12 Yazovitsky Andrey Matveyevich TeamLeader 8 50 PJCTName 90000 0.2 8
+13 Siyanitsa Vladlen Mironovich SeniorManager 1 0.2 1
+14 Shuryeva Alisa Aleksandrovna Manager PJCTName 105000 0.3
+15 Kvasnikov Fadey Serafimovich Programmer 8 50 PJCTName 105000 0.1
+16 Melehov Artur Ipatievich Programmer 8 50 PJCTName 105000 0.1
+17 Shubkin Innokentiy Tikhonovic Programmer 8 50 PJCTNameTwo 235000 0.1
